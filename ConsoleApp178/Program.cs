@@ -10,6 +10,7 @@ namespace ConsoleApp178
     {
         static void Main(string[] args)
         {
+
         }
     }
 }

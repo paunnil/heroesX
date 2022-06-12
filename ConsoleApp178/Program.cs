@@ -11,6 +11,7 @@ namespace ConsoleApp178
         static void Main(string[] args)
         {
             Console.WriteLine("sd");
+            Console.ReadLine();
         }
     }
 }
